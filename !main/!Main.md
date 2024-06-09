@@ -1,3 +1,3 @@
-- [[О_документе]]
+- [[О-документе]]
 - [[Концепт]]
-- [[User_Flow.excalidraw]]
+- [[User-Flow.excalidraw]]
